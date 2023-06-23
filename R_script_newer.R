@@ -1,5 +1,5 @@
 #Aurthor: Douye Victor Orumieyefa 
-#Title: Independent Quantum Virtual Internship Project - Retail Strategy and Analytics
+#Title: Independent Quantium Virtual Internship Project - Retail Strategy and Analytics
 
 #installing Packages
 install.packages("tidyverse")
