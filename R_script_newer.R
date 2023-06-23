@@ -190,10 +190,9 @@ brand_proportions <- merge(quantity_segment1_by_brand,
                            quantity_other_by_brand)[, affinityToBrand := targetSegment/other]
 brand_proportions[order(-affinityToBrand)]
 
-# Mainstream young singles/couples are 23% more likely to purchase Tyrrells chips compared to the
-# rest of the population
-# Mainstream young singles/couples are 56% less likely to purchase Burger Rings compared to the rest
-# of the population
+#Conclusion
+#Mainstream young singles/couples are 23% more likely to purchase Tyrrells chips compared to therest of the population
+#Mainstream young singles/couples are 56% less likely to purchase Burger Rings compared to the rest of the population
 
 
 
